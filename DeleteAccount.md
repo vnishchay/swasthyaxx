@@ -1,92 +1,41 @@
-# Privacy Policy for SwasthyaX
+# Account Deletion Request - SwasthyaX
 
-**Effective Date: January 6, 2026**
+SwasthyaX provides users with full control over their data. In accordance with Google Play's Data Safety requirements, this page outlines the process for requesting the deletion of your account and associated data.
 
-SwasthyaX ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+## How to Delete Your Account
 
-Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+You can request account deletion through two methods:
 
----
+### 1. In-App Deletion (Recommended)
+The fastest way to delete your account is directly within the SwasthyaX app:
+1. Open the **SwasthyaX** app.
+2. Go to the **Profile** tab.
+3. Tap on **Settings** (Gear icon).
+4. Select **Account Security** or **Edit Profile**.
+5. Tap **Delete Account**.
+6. Confirm your choice. Your account and data will be deleted immediately from our active databases.
 
-## 1. Information We Collect
-
-To provide a personalized AI-driven fitness and nutrition experience, we collect the following types of information:
-
-### Personal Data
-*   **Account Information:** Name, email address, and authentication data (via Google/Apple/Supabase).
-*   **Physical Characteristics:** Age, gender, height, current weight, and target weight.
-*   **Health & Fitness Data:** Activity levels, dietary preferences, allergies, health conditions (e.g., PCOS/PCOD), and medication dependency.
-*   **User Content:** Progress photos (Daily Snaps) and workout/diet logs.
-
-### AI Processing Data
-*   Information provided for plan generation (user notes, goals) is processed by AI models (such as Google Gemini) to create your custom blueprints.
-
----
-
-## 2. How We Use Your Information
-
-We use the collected information to:
-*   Generate personalized workout and nutrition plans using AI.
-*   Track your fitness progress and display historical data.
-*   Provide personalized AI coaching and progress analysis.
-*   Send push notifications for workout and meal reminders (if enabled).
-*   Improve App functionality and user experience.
+### 2. Request via Web/Email
+If you have already uninstalled the app or cannot access it, you can request deletion by emailing us:
+*   **Email:** support@swasthyax.fit
+*   **Subject:** Account Deletion Request - [Your Registered Email]
+*   **Requirement:** Please send the request from the email address associated with your SwasthyaX account to verify ownership.
 
 ---
 
-## 3. Third-Party Services & Data Sharing
+## What Data is Deleted?
+When your account is deleted, the following data is permanently removed:
+*   **Personal Profile:** Name, email, age, gender, and physical stats (height/weight).
+*   **Fitness Data:** All workout logs, exercise history, and AI-generated blueprints.
+*   **Nutrition Data:** All meal logs, dietary preferences, and calorie/macro history.
+*   **Media Files:** All "Daily Snap" progress photos stored in our secure cloud storage.
 
-We share your data with third-party service providers only as necessary to provide the App's features:
-
-*   **Supabase:** For secure database storage and user authentication.
-*   **Google Gemini API:** To process your physical stats and preferences into AI-generated plans.
-*   **Expo / Google Play Services:** For core app functionality and push notifications.
-
-**We do not sell your personal or health data to third-party advertisers.**
-
----
-
-## 4. Children’s Privacy
-
-SwasthyaX is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it immediately. If you are a parent or guardian and believe your child has provided such data, please contact us.
+## Data Retention
+*   **Immediate Deletion:** Most data (profile, logs, photos) is deleted immediately upon request.
+*   **Backup Retention:** Residual copies of your data may remain in our encrypted database backups for up to **30 days** before being fully purged.
+*   **Legal Compliance:** We may retain minimal transaction records if required by law for tax or legal compliance (e.g., if you had a paid subscription).
 
 ---
 
-## 5. Information Security
-
-We use industry-standard security measures provided by **Supabase** (SSL encryption and Row-Level Security) to protect your data. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
-
----
-
-## 6. Your Rights & Account Deletion
-
-You have the right to access, update, or delete your personal data at any time.
-
-### How to Delete Your Account
-SwasthyaX provides a simple way to delete your account and all associated data:
-1.  **In-App:** Navigate to **Profile > Settings > Delete Account**.
-2.  **Via Email:** Send a request to **support@swasthyax.fit** from your registered email address.
-
-### Data Impact
-Upon deletion, the following data is permanently removed:
-*   Profile details (Name, Age, Stats).
-*   AI-generated workout and nutrition blueprints.
-*   All workout, diet, and progress logs.
-*   All progress photos (Daily Snaps).
-
-Data is purged from active databases immediately and from encrypted backups within 30 days.
-
----
-
-## 7. Changes to This Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date."
-
----
-
-## 8. Contact Us
-
-If you have questions or comments about this Privacy Policy or account deletion, please contact us at:
-
-**Email:** nishchay.vns2000@gmail.com
-**Account Deletion Page:** https://github.com/swasthyax/privacy/blob/main/DELETE_ACCOUNT.md
+**Developer:** SwasthyaX Development Team
+**Privacy Policy:** [Link to your privacy.md or hosted URL]
