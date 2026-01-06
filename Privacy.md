@@ -58,12 +58,23 @@ We use industry-standard security measures provided by **Supabase** (SSL encrypt
 
 ---
 
-## 6. Your Rights (Data Deletion)
+## 6. Your Rights & Account Deletion
 
-You have the right to:
-*   Access the personal data we hold about you.
-*   Request correction of inaccurate data.
-*   **Request Deletion:** You can delete your account and all associated health/photo data through the settings in the App or by contacting us via the email below.
+You have the right to access, update, or delete your personal data at any time.
+
+### How to Delete Your Account
+SwasthyaX provides a simple way to delete your account and all associated data:
+1.  **In-App:** Navigate to **Profile > Settings > Delete Account**.
+2.  **Via Email:** Send a request to **support@swasthyax.fit** from your registered email address.
+
+### Data Impact
+Upon deletion, the following data is permanently removed:
+*   Profile details (Name, Age, Stats).
+*   AI-generated workout and nutrition blueprints.
+*   All workout, diet, and progress logs.
+*   All progress photos (Daily Snaps).
+
+Data is purged from active databases immediately and from encrypted backups within 30 days.
 
 ---
 
@@ -75,7 +86,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 8. Contact Us
 
-If you have questions or comments about this Privacy Policy, please contact us at:
+If you have questions or comments about this Privacy Policy or account deletion, please contact us at:
 
-**Email:** support@swasthyax.fit
-**GitHub Repository:** https://github.com/swasthyax/privacy
+**Email:** nishchay.vns2000@gmail.com
+**Account Deletion Page:** https://github.com/swasthyax/privacy/blob/main/DELETE_ACCOUNT.md
